@@ -39,9 +39,3 @@ The model is trained on the Iris dataset, which contains 3 classes and 4 input f
 - Loss curves and accuracy trends visualization
 - Model performance evaluated on test data
 
-## Contributing
-Fork the repository and submit a pull request if you'd like to contribute.
-
-## License
-This project is open-source under the MIT License.
-
